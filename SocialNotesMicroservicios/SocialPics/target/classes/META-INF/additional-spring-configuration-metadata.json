@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "photo.upload.directory",
+    "type": "java.lang.String",
+    "description": "A description for 'photo.upload.directory'"
+  },
+  {
+    "name": "photo.upload.directory",
+    "type": "java.lang.String",
+    "description": "A description for 'photo.upload.directory'"
+  }
+]}
