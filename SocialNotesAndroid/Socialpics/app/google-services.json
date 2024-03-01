@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "955148615326",
+    "project_id": "socialpics-7014e",
+    "storage_bucket": "socialpics-7014e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955148615326:android:a2bfe9b9dcf07e7b34058f",
+        "android_client_info": {
+          "package_name": "com.example.socialpics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbE8GbOqnNdRb_raqG1tP11BIr0LVPZXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
