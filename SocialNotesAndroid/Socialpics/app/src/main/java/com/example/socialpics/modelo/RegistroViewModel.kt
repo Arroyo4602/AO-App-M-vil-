@@ -166,7 +166,7 @@ class RegistroViewModel: ViewModel() {
         try {
             RetrofitService.instance.like(idNota,idUser)
         } catch (e: Exception) {
-            Log.e("RegistroViewModel", "Error general: ${e.message}")
+            "@elii.lavin", "Error general: ${e.message}")
             e.printStackTrace()
         }
     }
